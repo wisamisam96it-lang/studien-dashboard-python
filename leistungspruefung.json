@@ -1,0 +1,15 @@
+{
+    "Prüfungsleistung": {
+        "wochen_summary": {
+            "total_completed_hours": 35,
+            "gesamt_ects": "20/180",
+            "notendurchschnitt": 2.48,
+            "ziel_erreicht": false,
+            "offene_ects": 160
+        },
+        "wochen_tracker": {
+            "erreichte_stunden": 840,
+            "gesamt_stunden_studium": 4500
+        }
+    }
+}

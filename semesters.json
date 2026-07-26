@@ -1,0 +1,67 @@
+{
+    "semester_plan": [
+        {
+            "Semester": "1. Semester",
+            "Zeitraum": "Bis 31.07.2026",
+            "ECTS_Punkte": "25 ECTS",
+            "Anmerkungen": "Dringend erforderlich",
+            "module": [
+                {
+                    "Modul_Name": "Medizin für Nichtmediziner:innen I",
+                    "Dozent": "Dana M. Simmet",
+                    "Note": "3"
+                },
+                {
+                    "Modul_Name": "E-Health",
+                    "Dozent": "Jan Rüterbories",
+                    "Note": "1.7"
+                },
+                {
+                    "Modul_Name": "Einführung in das wissenschaftliche Arbeiten für IT und Technik",
+                    "Dozent": "Markus Kleffmann",
+                    "Note": "2.7"
+                },
+                {
+                    "Modul_Name": "Anatomie und Physiologie",
+                    "Dozent": "",
+                    "Note": "2.5"
+                }
+            ]
+        },
+        {
+            "Semester": "2. Semester",
+            "Zeitraum": "01.08.2026 - 31.01.2027",
+            "ECTS_Punkte": "0 ECTS",
+            "Anmerkungen": "Ab dem ersten Tag mit 35 Stunden/Woche starten.",
+            "module": []
+        },
+        {
+            "Semester": "3. Semester",
+            "Zeitraum": "01.02.2027 - 31.07.2027",
+            "ECTS_Punkte": "0 ECTS",
+            "Anmerkungen": "Im gleichen Lernrhythmus weitermachen.",
+            "module": []
+        },
+        {
+            "Semester": "4. Semester",
+            "Zeitraum": "01.08.2027 - 31.01.2028",
+            "ECTS_Punkte": "0 ECTS",
+            "Anmerkungen": "Im gleichen Lernrhythmus weitermachen.",
+            "module": []
+        },
+        {
+            "Semester": "5. Semester",
+            "Zeitraum": "01.02.2028 - 31.07.2028",
+            "ECTS_Punkte": "0 ECTS",
+            "Anmerkungen": "Im gleichen Lernrhythmus weitermachen.",
+            "module": []
+        },
+        {
+            "Semester": "6. Semester",
+            "Zeitraum": "01.08.2028 - 31.01.2029",
+            "ECTS_Punkte": "0 ECTS",
+            "Anmerkungen": "Letztes Semester – inkl. Bachelorarbeit",
+            "module": []
+        }
+    ]
+}
